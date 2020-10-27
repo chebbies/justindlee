@@ -75,28 +75,28 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://michaelsyao.com/about/"
+      url: "https://justindlee.com/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michael_s_yao"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/myaomeow"
-      #    - label: "Instagram"
-      #      icon: "fab fa-fw fa-instagram"
-      #      url: "https://instagram.com/myaomeowww"
+      url: "https://twitter.com/lee_chebbs"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/chebaum"
+      #    - label: "Github"
+      #      icon: "fab fa-fw fa-github"
+      #      url: "https://github.com/chebbies/justindlee"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michael_s_yao"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/myaomeow"
-      #    - label: "Instagram"
-      #      icon: "fab fa-fw fa-instagram"
-      #      url: "https://instagram.com/myaomeowww"
+      url: "https://twitter.com/lee_chebbs"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/chebaum"
+      #    - label: "Github"
+      #      icon: "fab fa-fw fa-github"
+      #      url: "https://github.com/chebbies/justindlee"
 
 defaults:
   # _posts
