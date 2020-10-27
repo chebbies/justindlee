@@ -16,23 +16,24 @@
 title: Justin D. Lee
 email: justinleemdphd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website! My name is Michael Yao and I'm a current senior
+  Welcome to my website! My name is Justin and I'm a Bioengineering PhD 
+  student at Caltech and an aspiring physician-scientist
   at Caltech studying physics and computer science.
-twitter_username: michael_s_yao
-github_username: myaomeow
+twitter_username: lee_chebs
+github_username: chebbies
 minimal_mistakes_skin: default
 search: true
 search_provider: algolia
 
-google:
-    tracking_id: UA-173081175-1
-    anonymize_ip: true
+#google:
+#    tracking_id: UA-173081175-1
+#    anonymize_ip: true
 
-algolia:
-    application_id: E3YCTJRDSB
-    index_name: dev_NAME
-    search_only_api_key: c0850fe519bdbb0b1e0b1ef3fd4e6753
-    powered_by: true
+#algolia:
+#  application_id: E3YCTJRDSB
+#    index_name: dev_NAME
+#    search_only_api_key: c0850fe519bdbb0b1e0b1ef3fd4e6753
+#    powered_by: true
 
 # Build settings
 markdown: kramdown
@@ -71,8 +72,11 @@ plugins:
 author:
   name   : "Justin Lee"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Aspiring physician-scientist, UCLA/Caltech Medical Scientist Training Program. PhD3, Bioengineering, Shapiro Lab @ Caltech"
+  bio    : "Aspiring physician-scientist, 2020 PD Soros Fellow, Surfing Enthusiast"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:justinleemdphd@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://justindlee.com/about/"
