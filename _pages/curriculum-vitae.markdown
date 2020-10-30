@@ -12,7 +12,7 @@ toc_label: "Navigation"
 
 5/2018 - Present | **Caltech**: PhD Student, Department of Bioengineering
 8/2016 - Present | **David Geffen School of Medicine (DGSOM) at UCLA**: Medical Student, Medical Scientist Training Program
-8/2011 - 5/2015 | **Johns Hopkins University(JHU)** BA, Globl Environmental Change and Sustainability 
+8/2011 - 5/2015 | **Johns Hopkins University (JHU)** BA, Globl Environmental Change and Sustainability 
 
 > ## Research Experience 
 
@@ -99,3 +99,21 @@ Undergraduate Researcher, 6/2012-6/2013
 6/2013 - 5/2015
 
 - Responsible for managing the station’s ingredient preparation for a daily changing menu. Designed creative plating styles and presentations. Tasked with picking fresh produce at the local farmer’s market. Trained in classic French techniques utilized in traditional Italian cooking.
+
+> ## Honors and Awards
+
+2020 | Fellow, Paul and Daisy Soros Fellowship for New Americans
+2015 | Graduation with General Honors, Johns Hopkins University
+2015 | Graduation with Departmental Honors, Johns Hopkins University
+2011 | Eagle Scout, Boy Scouts of America
+2009 | Junior Olympic All-American, La Cañada Water Polo Club
+
+> ## Medical Entrepreneurship 
+
+### Sling Health, Los Angeles
+Co-President and Founder
+
+President and Founder: Founded a Health Technology incubator at DGSOM focusing on connecting medical
+professionals who face clinical problems with students to create innovative solutions. Our vision is to give students an opportunity to think critically and creatively about a relevant clinical problem and equip them to create products to solve these issues. We hope students in our incubator curriculum will supplement their academic coursework with real-world practice in entrepreneurship. Our UCLA incubator merged with Sling Health, a national non-profit health technology incubator, in August 2018 to form the Sling Health Los Angeles Chapter.
+
+Established a yearlong program to pitch problems to interested students, form teams, mentor them, and provide opportunities to present their innovations. We launched an annual UCLA ‘Demo Day’ to give medical students a platform to present products to potential investors and leaders in the field
