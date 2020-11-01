@@ -72,7 +72,7 @@ plugins:
 author:
   name   : "Justin Lee"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Aspiring physician-scientist, 2020 PD Soros Fellow, Surfing Enthusiast"
+  bio    : "Aspiring physician-scientist, UCLA Medicine, Caltech Bioengineering, 2020 PD Soros Fellow, Surfing Enthusiast"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

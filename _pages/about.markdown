@@ -6,9 +6,6 @@ author_profile: true
 permalink: /about/
 title: "About"
 ---
-
-Hi! I'm currently a 3rd year Bioengineering PhD student at Caltech in the Shapiro Lab within the UCLA-Caltech MD/PhD program. My research involes engineering cell-based cancer diagnostic and therapeutic tools. I was named a [2020 PD Soros Fellow](https://www.pdsoros.org/meet-the-fellows/justin-lee) to support my research. I am working towards becoming a neurosugeron-scientist to treat patients with neuropsychiatric disorders while conducting cutting-edge research to address important challenges in the field. 
-
 ![image-left](/assets/images/whitecoat2.jpg){: .align-left}{:height="40%" width="40%"}
 I was born and raised in Los Angeles, California to immigrants from South Korea. I am the youngest of four children, and I'm thankful that my older sisters are three of my best friends. Growing up, I disliked school intensely, and instead, focused on playing water polo. I fell in love with the sport when I was nine years old and played throughout high school. Through dedication, perserverance, and commitment to practicing, I was named a Junior Olympic All-American, selected First-Team All-League, and voted Team Captain by my peers. Because of my success in water polo, I was recruited to Johns Hopkins University to continue playing at the collegiate level, but as a senior in high school, my grandparents fell ill and passed away which drastically changed my future trajectory. Seeing my grandmother lose her ability to speak and walk due to a stroke and watching my gradfather bravely batter cancer motivated me to pursue a career in medicine. 
 
