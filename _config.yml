@@ -29,11 +29,11 @@ search_provider: algolia
 #    tracking_id: UA-173081175-1
 #    anonymize_ip: true
 
-#algolia:
-#  application_id: E3YCTJRDSB
-#    index_name: dev_NAME
-#    search_only_api_key: c0850fe519bdbb0b1e0b1ef3fd4e6753
-#    powered_by: true
+algolia:
+  application_id: DQ5PRZZEWQ
+  index_name:  website_JDL
+  search_only_api_key:  67ef9b98154edcc2bb7514966ba00ab5
+  powered_by: true
 
 # Build settings
 markdown: kramdown
