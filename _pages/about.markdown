@@ -6,7 +6,7 @@ author_profile: true
 permalink: /about/
 title: "About"
 ---
-![image-left](/assets/images/whitecoat2.jpg){: .align-left}{:height="40%" width="40%"}
+![image-left](/assets/images/whitecoat.jpg){: .align-left}{:height="30%" width="30%"}
 I was born and raised in Los Angeles, California to immigrants from South Korea. I am the youngest of four children, and I'm thankful that my older sisters are three of my best friends. Growing up, I disliked school intensely, and instead, focused on playing water polo. I fell in love with the sport when I was nine years old and played throughout high school. Through dedication, perserverance, and commitment to practicing, I was named a Junior Olympic All-American, selected First-Team All-League, and voted Team Captain by my peers. Because of my success in water polo, I was recruited to Johns Hopkins University to continue playing at the collegiate level, but as a senior in high school, my grandparents fell ill and passed away which drastically changed my future trajectory. Seeing my grandmother lose her ability to speak and walk due to a stroke and watching my gradfather bravely batter cancer motivated me to pursue a career in medicine. 
 
 ![image-left](/assets/images/finn2.jpg){: .align-right}{:height="35%" width="35%"}
