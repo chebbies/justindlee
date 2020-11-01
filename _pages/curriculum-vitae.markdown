@@ -12,7 +12,7 @@ toc_label: "Navigation"
 
 5/2018 - Present | **Caltech**: PhD Student, Department of Bioengineering
 8/2016 - Present | **David Geffen School of Medicine (DGSOM) at UCLA**: Medical Student, Medical Scientist Training Program
-8/2011 - 5/2015 | **Johns Hopkins University (JHU)** BA, Globl Environmental Change and Sustainability 
+8/2011 - 5/2015 | **Johns Hopkins University (JHU)** BA, Global Environmental Change and Sustainability 
 
 > ## Research Experience 
 
