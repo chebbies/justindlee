@@ -113,7 +113,7 @@ Undergraduate Researcher, 6/2012-6/2013
 ### Sling Health, Los Angeles
 Co-President and Founder, 6/2017-Present
 
-President and Founder: Founded a Health Technology incubator at DGSOM focusing on connecting medical
+Founded a Health Technology incubator at DGSOM focusing on connecting medical
 professionals who face clinical problems with students to create innovative solutions. Our vision is to give students an opportunity to think critically and creatively about a relevant clinical problem and equip them to create products to solve these issues. We hope students in our incubator curriculum will supplement their academic coursework with real-world practice in entrepreneurship. Our UCLA incubator merged with Sling Health, a national non-profit health technology incubator, in August 2018 to form the Sling Health Los Angeles Chapter.
 
 Established a yearlong program to pitch problems to interested students, form teams, mentor them, and provide opportunities to present their innovations. We launched an annual UCLA ‘Demo Day’ to give medical students a platform to present products to potential investors and leaders in the field
