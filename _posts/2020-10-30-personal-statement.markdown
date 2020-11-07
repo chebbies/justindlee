@@ -30,7 +30,7 @@ To say that I wrote and rewrote is an understatement – it probably took 6 draf
 The major consideration for me was to write a truly authetic story in a way that captured the reader's attention, and I tried to write in a way that satisfied both of these conditions. 
 
 # Takeaways
-1.	**Be as authentic as possible to your story**: Instead of writing what you think others want to hear, write your real journey. By definition, you have had a unique apth, and staying true to this story will make your essay memorable instead of cliché.  
+1.	**Be as authentic as possible to your story**: Instead of writing what you think others want to hear, write your real journey. By definition, you have had a unique path, and staying true to this story will make your essay memorable instead of cliché.  
 2.	**Get excited about rewriting**: Good writing often takes time, and I have never written a good first draft that I’ve stuck with. It isn’t until many rounds of revisions and fine-tuning that I’ve been able to write something compelling. 
 3.	**Ask for feedback and ask early**: Don’t be afraid to reach out to Fellows who have won and people in your life who know you well for feedback on your essay. Feedback will be integral in helping you see blind spots in your writing and will help you write a better story – just make sure your voice isn’t lost in other people’s revisions. 
 
