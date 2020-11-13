@@ -1,7 +1,7 @@
 ---
 title: "How I Wrote a PD Soros Winning Personal Statement"
 ---
-My brainstorming and writing process with some takeaways to help you in your own writing. 
+My brainstorming and writing process and a link to my submitted personal statement to help you in your own application journey. 
 
 # Prompt
 Tell us about your experiences as a New American. Whether as an immigrant yourself, or as a child of immigrants, how have your experiences as a New American informed and shaped who you are and your accomplishments?
