@@ -6,6 +6,8 @@ main:
     url: /curriculum-vitae/
   - title: "Blog"
     url: /blog/
-  - title: "Contact"
-    url: /contact/
+  - title: "Academic Consulting"
+    url: /academic-consulting/
+  #- title: "Contact"
+  #  url: /contact/
 
