@@ -102,6 +102,7 @@ Undergraduate Researcher, 6/2012-6/2013
 
 > ## Honors and Awards
 
+2020 | Fellow, NIH Kirschstein-NRSA F30 Fellowship
 2020 | Fellow, Paul and Daisy Soros Fellowship for New Americans
 2015 | Graduation with General Honors, Johns Hopkins University
 2015 | Graduation with Departmental Honors, Johns Hopkins University
