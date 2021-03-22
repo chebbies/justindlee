@@ -1,13 +1,12 @@
 ---
-title: "How I Wrote a PD Soros Winning Personal Statement"
+title: "My Experiences with the Pfizer/BioNTech COVID Vaccines"
 ---
-My brainstorming and writing process
+TL;DR Go get vaccinated, but here is a post about why you should. 
 
-# Prompt
-Tell us about your experiences as a New American. Whether as an immigrant yourself, or as a child of immigrants, how have your experiences as a New American informed and shaped who you are and your accomplishments?
-Feel free to discuss how individual people (such as family or teachers), institutions, aspects of law, culture, society or American governance made an impact on your life as an immigrant or child of immigrants. The program is interested in understanding the context of your personal, professional, and academic accomplishment
+# Fear Surrounding the COVID-19 Vaccine
+I've had quite a few people recently express their doubts about accepting the COVID-19 vaccination. These people are not anti-vaxxers, and I completely understand where their trepidation comes from. Even if you understand the science and the mechanism, the thought of being vaccinated with something that was developed in record time can be unnerving. On top of that, the mechanism of the vaccine itself, an mRNA vaccine, is not as well developed as some of the more classic vaccination strategies of using killed (inactivated) vaccines or weakened (attenuated) virus particles to strengthen our immune response. 
 
->How I interpreted this prompt: I viewed this as a Personal Statement, but it is specifically asking about how my upbringing as the child of immigrants shaped my life, accomplishments and goals. 
+On top of this, some people who get the vaccine experience side-effects that are more severe than the vaccines we're more familiar with. The CDC website states: "Side effects may feel like flu and even affect your ability to do daily activities, but they should go away in a few days." Annecdotally, 
 
 # My Writing Process
 ## 1. Brainstorming Every Formative Experience 
@@ -34,3 +33,4 @@ The major consideration for me was to write a truly authetic story in a way that
 2.	**Get excited about rewriting**: Good writing often takes time, and I have never written a good first draft that I’ve stuck with. It isn’t until many rounds of revisions and fine-tuning that I’ve been able to write something compelling. 
 3.	**Ask for feedback and ask early**: Don’t be afraid to reach out to Fellows who have won and people in your life who know you well for feedback on your essay. Feedback will be integral in helping you see blind spots in your writing and will help you write a better story – just make sure your voice isn’t lost in other people’s revisions. 
 
+Here is the [essay](https://pdfhost.io/v/7H1bYzfaq_JLee_Soros_2020pdf.pdf) I submitted in 2020! You’ll have your own story, but hopefully this post and my essay provide some inspiration in your writing journey! 
