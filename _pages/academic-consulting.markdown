@@ -7,6 +7,7 @@ title: "Academic Consulting"
 toc: true
 toc_label: "Navigation"
 ---
+Note: I am currently not accepting medical school application consulting clients at this time, but please send me an email if you would like to join my waitlist or are interested in general advising. 
 
 I have had the privilege of serving students as an academic consultant for over four years now, and my expertise is in working with undergraduate students from all backgrounds prepare for medical school. One of my greatest joys is helping pre-medical students achieve great success in college, and I have helped over twenty students achieve admission into some of the most competitive medical schools in the nation. Through advising, application brainstorming, essay editing, and interview coaching, the student’s I’ve worked with have been admitted to UCLA, UCSF, UCSD, Hopkins, Cornell and others.  
 
